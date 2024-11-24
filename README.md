@@ -39,7 +39,7 @@ How to Use
 Clone the Repository:
 git clone https://github.com/Janvii01/breast_cancer_prediction
 Navigate to the Project Directory:
-cd Breast_Cancer_Predictor_App
+cd Breast_Cancer_Streamlit_App
 Install Dependencies:
 pip install -r requirements.txt
 Run the Application:
